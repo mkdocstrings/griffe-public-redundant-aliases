@@ -1,0 +1,23 @@
+# Changes here will be overwritten by Copier
+_commit: 1.4.0
+_src_path: gh:pawamoy/copier-uv
+author_email: dev@pawamoy.fr
+author_fullname: Timothée Mazzucotelli
+author_username: pawamoy
+copyright_date: '2024'
+copyright_holder: Timothée Mazzucotelli
+copyright_holder_email: dev@pawamoy.fr
+copyright_license: ISC License
+insiders: true
+insiders_email: insiders@pawamoy.fr
+insiders_repository_name: griffe-public-redundant-aliases
+project_description: Mark objects imported with redundant aliases as public.
+project_name: griffe-public-redundant-aliases
+public_release: false
+python_package_command_line_name: ''
+python_package_distribution_name: griffe-public-redundant-aliases
+python_package_import_name: griffe_public_redundant_aliases
+repository_name: griffe-public-redundant-aliases
+repository_namespace: mkdocstrings
+repository_provider: github.com
+
