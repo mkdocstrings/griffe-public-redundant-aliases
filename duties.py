@@ -123,7 +123,11 @@ def docs_deploy(ctx: Context) -> None:
             ctx.run(lambda: False, title="Not deploying docs without Material for MkDocs Insiders!")
         origin = ctx.run("git config --get remote.origin.url", silent=True)
         if "pawamoy-insiders/griffe-public-redundant-aliases" in origin:
-            ctx.run("git remote add upstream git@github.com:mkdocstrings/griffe-public-redundant-aliases", silent=True, nofail=True)
+            ctx.run(
+                "git remote add upstream git@github.com:mkdocstrings/griffe-public-redundant-aliases",
+                silent=True,
+                nofail=True,
+            )
             ctx.run(
                 tools.mkdocs.gh_deploy(remote_name="upstream", force=True),
                 title="Deploying documentation",
