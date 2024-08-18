@@ -28,7 +28,9 @@ classifiers = [
     "Topic :: Utilities",
     "Typing :: Typed",
 ]
-dependencies = []
+dependencies = [
+    "griffe>=1.1",
+]
 
 [project.urls]
 Homepage = "https://mkdocstrings.github.io/griffe-public-redundant-aliases"

@@ -7,7 +7,10 @@ goals:
     features: []
   1500:
     name: HyperLamp Navigation Tips
-    features: []
+    features:
+    - name: "[Project] Mark objects imported with redundant aliases as public"
+      ref: /
+      since: 2024/08/18
   2000:
     name: FusionDrive Ejection Configuration
     features: []
