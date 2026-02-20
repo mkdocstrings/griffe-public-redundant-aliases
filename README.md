@@ -1,7 +1,7 @@
 # griffe-public-redundant-aliases
 
 [![ci](https://github.com/mkdocstrings/griffe-public-redundant-aliases/workflows/ci/badge.svg)](https://github.com/mkdocstrings/griffe-public-redundant-aliases/actions?query=workflow%3Aci)
-[![documentation](https://img.shields.io/badge/docs-mkdocs-708FCC.svg?style=flat)](https://mkdocstrings.github.io/griffe-public-redundant-aliases/)
+[![documentation](https://img.shields.io/badge/docs-zensical-FF9100.svg?style=flat)](https://mkdocstrings.github.io/griffe-public-redundant-aliases/)
 [![pypi version](https://img.shields.io/pypi/v/griffe-public-redundant-aliases.svg)](https://pypi.org/project/griffe-public-redundant-aliases/)
 [![gitter](https://img.shields.io/badge/matrix-chat-4DB798.svg?style=flat)](https://app.gitter.im/#/room/#griffe-public-redundant-aliases:gitter.im)
 
