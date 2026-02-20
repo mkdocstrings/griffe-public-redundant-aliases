@@ -6,6 +6,14 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 <!-- insertion marker -->
+## [0.3.1](https://github.com/mkdocstrings/griffe-public-redundant-aliases/releases/tag/0.3.1) - 2026-02-20
+
+<small>[Compare with 0.3.0](https://github.com/mkdocstrings/griffe-public-redundant-aliases/compare/0.3.0...0.3.1)</small>
+
+### Build
+
+- Depend on griffelib instead of griffe ([f98e263](https://github.com/mkdocstrings/griffe-public-redundant-aliases/commit/f98e263dfa4eacc632cf4a49e9957f65f8bc393a) by Timothée Mazzucotelli).
+
 ## [0.3.0](https://github.com/mkdocstrings/griffe-public-redundant-aliases/releases/tag/0.3.0) - 2025-11-08
 
 <small>[Compare with 0.2.0](https://github.com/mkdocstrings/griffe-public-redundant-aliases/compare/0.2.0...0.3.0)</small>
