@@ -7,6 +7,12 @@
         <loc>https://mkdocstrings.github.io/griffe-public-redundant-aliases/changelog/</loc>
       </url>
       <url>
+        <loc>https://mkdocstrings.github.io/griffe-public-redundant-aliases/code_of_conduct/</loc>
+      </url>
+      <url>
+        <loc>https://mkdocstrings.github.io/griffe-public-redundant-aliases/contributing/</loc>
+      </url>
+      <url>
         <loc>https://mkdocstrings.github.io/griffe-public-redundant-aliases/credits/</loc>
       </url>
       <url>
@@ -14,11 +20,5 @@
       </url>
       <url>
         <loc>https://mkdocstrings.github.io/griffe-public-redundant-aliases/reference/api/</loc>
-      </url>
-      <url>
-        <loc>https://mkdocstrings.github.io/griffe-public-redundant-aliases/contributing/</loc>
-      </url>
-      <url>
-        <loc>https://mkdocstrings.github.io/griffe-public-redundant-aliases/code_of_conduct/</loc>
       </url>
 </urlset>
